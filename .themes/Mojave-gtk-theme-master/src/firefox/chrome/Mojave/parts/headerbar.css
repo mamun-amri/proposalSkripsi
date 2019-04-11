@@ -1,0 +1,39 @@
+/* Header bar */
+@import "headerbar-urlbar.css";
+@import "headerbar-private-urlbar.css";
+@namespace xul "http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul";
+
+/* Headerbar */
+#nav-bar {
+	padding: 5px 3px !important;
+}
+
+/* Headerbar CSD colors */
+:root[tabsintitlebar] #nav-bar {
+	background: var(--gnome-headerbar-background) !important;
+	border: none !important;
+	border-bottom: 1px solid var(--gnome-headerbar-border-color) !important;
+	box-shadow: var(--gnome-headerbar-box-shadow) !important;
+}
+:root[tabsintitlebar] #nav-bar:-moz-window-inactive {
+	background: var(--gnome-inactive-headerbar-background) !important;
+	border-bottom-color: var(--gnome-inactive-headerbar-border-color) !important;
+	box-shadow: var(--gnome-inactive-headerbar-box-shadow) !important;
+}
+
+@media (prefers-color-scheme: dark) {
+	#nav-bar toolbarbutton:not(#urlbar-zoom-button):not(.subviewbutton),
+	#downloadsHistory,
+	#downloadsPanel-mainView .download-state .downloadButton,
+	#viewButton,
+	#searchbar,
+	#urlbar,
+	#urlbar.megabar #urlbar-input-container,
+	#urlbar:not(.megabar) {
+		border: none !important;
+	}
+
+	#nav-bar #forward-button:not(#hack) {
+		margin-left: 1px !important;
+	}
+}
