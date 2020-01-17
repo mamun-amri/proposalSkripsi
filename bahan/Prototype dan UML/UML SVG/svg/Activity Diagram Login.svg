@@ -1,0 +1,836 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="417"
+   height="436"
+   id="svg348"
+   sodipodi:docname="Activity Diagram Login.svg"
+   inkscape:version="0.92.4 (0.92.4+201912240539+70224e8)">
+  <metadata
+     id="metadata352">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="720"
+     id="namedview350"
+     showgrid="false"
+     inkscape:zoom="0.5412844"
+     inkscape:cx="208.5"
+     inkscape:cy="218"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg348" />
+  <defs
+     id="defs2" />
+  <g
+     id="g96"
+     transform="translate(-32,-294)"
+     inkscape:export-filename="/media/amri/homes/Documents/proposalSkripsi/bahan/Prototype dan UML/UML SVG/AD login.png"
+     inkscape:export-xdpi="500"
+     inkscape:export-ydpi="500">
+    <rect
+       style="fill:#ffffff;stroke:none"
+       id="rect94"
+       height="18"
+       width="207.24219"
+       y="304"
+       x="42" />
+  </g>
+  <g
+     id="g100"
+     transform="translate(-32,-294)"
+     inkscape:export-filename="/media/amri/homes/Documents/proposalSkripsi/bahan/Prototype dan UML/UML SVG/AD login.png"
+     inkscape:export-xdpi="500"
+     inkscape:export-ydpi="500">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path98"
+       stroke-miterlimit="10"
+       d="m 42,304 h 207.24219 v 18 H 42 Z" />
+  </g>
+  <g
+     id="g104"
+     transform="translate(-32,-294)"
+     inkscape:export-filename="/media/amri/homes/Documents/proposalSkripsi/bahan/Prototype dan UML/UML SVG/AD login.png"
+     inkscape:export-xdpi="500"
+     inkscape:export-ydpi="500">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path102"
+       stroke-miterlimit="10"
+       d="M 42,720 V 304 h 207.24219 v 416" />
+  </g>
+  <g
+     id="g112"
+     transform="translate(-32,-294)"
+     inkscape:export-filename="/media/amri/homes/Documents/proposalSkripsi/bahan/Prototype dan UML/UML SVG/AD login.png"
+     inkscape:export-xdpi="500"
+     inkscape:export-ydpi="500">
+    <g
+       id="g110">
+      <path
+         style="fill:none;stroke:none"
+         inkscape:connector-curvature="0"
+         d=""
+         id="path106" />
+      <text
+         style="font-style:normal;font-weight:normal;font-size:10px;font-family:Arial;text-decoration:none;text-decoration-line:none;fill:#000000;stroke:none"
+         id="text108"
+         y="318"
+         x="51.5"
+         text-decoration="none"
+         font-weight="normal"
+         font-style="normal"
+         font-size="10px">Admin. Orang Tua. Bendahara. Wali Kelas</text>
+    </g>
+  </g>
+  <g
+     id="g116"
+     transform="translate(-32,-294)"
+     inkscape:export-filename="/media/amri/homes/Documents/proposalSkripsi/bahan/Prototype dan UML/UML SVG/AD login.png"
+     inkscape:export-xdpi="500"
+     inkscape:export-ydpi="500">
+    <rect
+       style="fill:#ffffff;stroke:none"
+       id="rect114"
+       height="18"
+       width="184"
+       y="304"
+       x="255" />
+  </g>
+  <g
+     id="g120"
+     transform="translate(-32,-294)"
+     inkscape:export-filename="/media/amri/homes/Documents/proposalSkripsi/bahan/Prototype dan UML/UML SVG/AD login.png"
+     inkscape:export-xdpi="500"
+     inkscape:export-ydpi="500">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path118"
+       stroke-miterlimit="10"
+       d="m 255,304 h 184 v 18 H 255 Z" />
+  </g>
+  <g
+     id="g124"
+     transform="translate(-32,-294)"
+     inkscape:export-filename="/media/amri/homes/Documents/proposalSkripsi/bahan/Prototype dan UML/UML SVG/AD login.png"
+     inkscape:export-xdpi="500"
+     inkscape:export-ydpi="500">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path122"
+       stroke-miterlimit="10"
+       d="M 255,720 V 304 h 184 v 416" />
+  </g>
+  <g
+     id="g132"
+     transform="translate(-32,-294)"
+     inkscape:export-filename="/media/amri/homes/Documents/proposalSkripsi/bahan/Prototype dan UML/UML SVG/AD login.png"
+     inkscape:export-xdpi="500"
+     inkscape:export-ydpi="500">
+    <g
+       id="g130">
+      <path
+         style="fill:none;stroke:none"
+         inkscape:connector-curvature="0"
+         d=""
+         id="path126" />
+      <text
+         style="font-style:normal;font-weight:normal;font-size:10px;font-family:Arial;text-decoration:none;text-decoration-line:none;fill:#000000;stroke:none"
+         id="text128"
+         y="318"
+         x="330.33008"
+         text-decoration="none"
+         font-weight="normal"
+         font-style="normal"
+         font-size="10px">System</text>
+    </g>
+  </g>
+  <g
+     id="g136"
+     transform="translate(-32,-294)"
+     inkscape:export-filename="/media/amri/homes/Documents/proposalSkripsi/bahan/Prototype dan UML/UML SVG/AD login.png"
+     inkscape:export-xdpi="500"
+     inkscape:export-ydpi="500">
+    <path
+       style="opacity:0.2;fill:#c0c0c0;stroke:none"
+       inkscape:connector-curvature="0"
+       id="path134"
+       d="m 143,352.5 c 0,-5.24671 4.25329,-9.5 9.5,-9.5 5.24671,0 9.5,4.25329 9.5,9.5 0,5.24671 -4.25329,9.5 -9.5,9.5 -5.24671,0 -9.5,-4.25329 -9.5,-9.5 z" />
+  </g>
+  <g
+     id="g140"
+     transform="translate(-32,-294)"
+     inkscape:export-filename="/media/amri/homes/Documents/proposalSkripsi/bahan/Prototype dan UML/UML SVG/AD login.png"
+     inkscape:export-xdpi="500"
+     inkscape:export-ydpi="500">
+    <path
+       style="fill:#000000;stroke:none"
+       inkscape:connector-curvature="0"
+       id="path138"
+       d="m 136,345.5 c 0,-5.24671 4.25329,-9.5 9.5,-9.5 5.24671,0 9.5,4.25329 9.5,9.5 0,5.24671 -4.25329,9.5 -9.5,9.5 -5.24671,0 -9.5,-4.25329 -9.5,-9.5 z" />
+  </g>
+  <g
+     id="g144"
+     transform="translate(-32,-294)"
+     inkscape:export-filename="/media/amri/homes/Documents/proposalSkripsi/bahan/Prototype dan UML/UML SVG/AD login.png"
+     inkscape:export-xdpi="500"
+     inkscape:export-ydpi="500">
+    <path
+       style="opacity:0.2;fill:#c0c0c0;stroke:none"
+       inkscape:connector-curvature="0"
+       id="path142"
+       d="m 112,383 h 81.25586 q 10,0 10,10 v 19 q 0,10 -10,10 H 112 q -10,0 -10,-10 v -19 q 0,-10 10,-10 z" />
+  </g>
+  <g
+     id="g148"
+     transform="translate(-32,-294)"
+     inkscape:export-filename="/media/amri/homes/Documents/proposalSkripsi/bahan/Prototype dan UML/UML SVG/AD login.png"
+     inkscape:export-xdpi="500"
+     inkscape:export-ydpi="500">
+    <path
+       style="fill:#ffffff;stroke:none"
+       inkscape:connector-curvature="0"
+       id="path146"
+       d="m 105,376 h 81.25586 q 10,0 10,10 v 19 q 0,10 -10,10 H 105 q -10,0 -10,-10 v -19 q 0,-10 10,-10 z" />
+  </g>
+  <g
+     id="g152"
+     transform="translate(-32,-294)"
+     inkscape:export-filename="/media/amri/homes/Documents/proposalSkripsi/bahan/Prototype dan UML/UML SVG/AD login.png"
+     inkscape:export-xdpi="500"
+     inkscape:export-ydpi="500">
+    <path
+       style="fill:none;stroke:#000000;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path150"
+       stroke-miterlimit="10"
+       d="m 105,376 h 81.25586 q 10,0 10,10 v 19 q 0,10 -10,10 H 105 q -10,0 -10,-10 v -19 q 0,-10 10,-10 z" />
+  </g>
+  <g
+     id="g160"
+     transform="translate(-32,-294)"
+     inkscape:export-filename="/media/amri/homes/Documents/proposalSkripsi/bahan/Prototype dan UML/UML SVG/AD login.png"
+     inkscape:export-xdpi="500"
+     inkscape:export-ydpi="500">
+    <g
+       id="g158">
+      <path
+         style="fill:none;stroke:none"
+         inkscape:connector-curvature="0"
+         d=""
+         id="path154" />
+      <text
+         style="font-style:normal;font-weight:bold;font-size:10px;font-family:Arial;text-decoration:none;text-decoration-line:none;fill:#000000;stroke:none"
+         id="text156"
+         y="392.5"
+         x="102.00488"
+         text-decoration="none"
+         font-weight="bold"
+         font-style="normal"
+         font-size="10px">UserID &amp; Password</text>
+    </g>
+  </g>
+  <g
+     id="g164"
+     transform="translate(-32,-294)"
+     inkscape:export-filename="/media/amri/homes/Documents/proposalSkripsi/bahan/Prototype dan UML/UML SVG/AD login.png"
+     inkscape:export-xdpi="500"
+     inkscape:export-ydpi="500">
+    <path
+       style="opacity:0.2;fill:#c0c0c0;stroke:none"
+       inkscape:connector-curvature="0"
+       id="path162"
+       d="M 343,504.5 354.5,495 365,504.5 354.5,513 343,504.5" />
+  </g>
+  <g
+     id="g168"
+     transform="translate(-32,-294)"
+     inkscape:export-filename="/media/amri/homes/Documents/proposalSkripsi/bahan/Prototype dan UML/UML SVG/AD login.png"
+     inkscape:export-xdpi="500"
+     inkscape:export-ydpi="500">
+    <path
+       style="fill:#ffffff;stroke:none"
+       inkscape:connector-curvature="0"
+       id="path166"
+       d="m 336,497 11,-9 11,9 -11,9 -11,-9" />
+  </g>
+  <g
+     id="g172"
+     transform="translate(-32,-294)"
+     inkscape:export-filename="/media/amri/homes/Documents/proposalSkripsi/bahan/Prototype dan UML/UML SVG/AD login.png"
+     inkscape:export-xdpi="500"
+     inkscape:export-ydpi="500">
+    <path
+       style="fill:none;stroke:#000000;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path170"
+       stroke-miterlimit="10"
+       d="m 336,497 11,-9 11,9 -11,9 -11,-9 v 0" />
+  </g>
+  <g
+     id="g176"
+     transform="translate(-32,-294)"
+     inkscape:export-filename="/media/amri/homes/Documents/proposalSkripsi/bahan/Prototype dan UML/UML SVG/AD login.png"
+     inkscape:export-xdpi="500"
+     inkscape:export-ydpi="500">
+    <path
+       style="opacity:0.2;fill:#c0c0c0;stroke:none"
+       inkscape:connector-curvature="0"
+       id="path174"
+       d="m 305,599 h 98.29199 q 10,0 10,10 v 19 q 0,10 -10,10 H 305 q -10,0 -10,-10 v -19 q 0,-10 10,-10 z" />
+  </g>
+  <g
+     id="g180"
+     transform="translate(-32,-294)"
+     inkscape:export-filename="/media/amri/homes/Documents/proposalSkripsi/bahan/Prototype dan UML/UML SVG/AD login.png"
+     inkscape:export-xdpi="500"
+     inkscape:export-ydpi="500">
+    <path
+       style="fill:#ffffff;stroke:none"
+       inkscape:connector-curvature="0"
+       id="path178"
+       d="m 298,592 h 98.29199 q 10,0 10,10 v 19 q 0,10 -10,10 H 298 q -10,0 -10,-10 v -19 q 0,-10 10,-10 z" />
+  </g>
+  <g
+     id="g184"
+     transform="translate(-32,-294)"
+     inkscape:export-filename="/media/amri/homes/Documents/proposalSkripsi/bahan/Prototype dan UML/UML SVG/AD login.png"
+     inkscape:export-xdpi="500"
+     inkscape:export-ydpi="500">
+    <path
+       style="fill:none;stroke:#000000;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path182"
+       stroke-miterlimit="10"
+       d="m 298,592 h 98.29199 q 10,0 10,10 v 19 q 0,10 -10,10 H 298 q -10,0 -10,-10 v -19 q 0,-10 10,-10 z" />
+  </g>
+  <g
+     id="g192"
+     transform="translate(-32,-294)"
+     inkscape:export-filename="/media/amri/homes/Documents/proposalSkripsi/bahan/Prototype dan UML/UML SVG/AD login.png"
+     inkscape:export-xdpi="500"
+     inkscape:export-ydpi="500">
+    <g
+       id="g190">
+      <path
+         style="fill:none;stroke:none"
+         inkscape:connector-curvature="0"
+         d=""
+         id="path186" />
+      <text
+         style="font-style:normal;font-weight:bold;font-size:10px;font-family:Arial;text-decoration:none;text-decoration-line:none;fill:#000000;stroke:none"
+         id="text188"
+         y="608.5"
+         x="295.18311"
+         text-decoration="none"
+         font-weight="bold"
+         font-style="normal"
+         font-size="10px">Tampil Halaman Utama</text>
+    </g>
+  </g>
+  <g
+     id="g196"
+     transform="translate(-32,-294)"
+     inkscape:export-filename="/media/amri/homes/Documents/proposalSkripsi/bahan/Prototype dan UML/UML SVG/AD login.png"
+     inkscape:export-xdpi="500"
+     inkscape:export-ydpi="500">
+    <path
+       style="fill:none;stroke:#000000;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path194"
+       stroke-miterlimit="10"
+       d="m 347,506 v 86" />
+  </g>
+  <g
+     id="g200"
+     transform="translate(-32,-294)"
+     inkscape:export-filename="/media/amri/homes/Documents/proposalSkripsi/bahan/Prototype dan UML/UML SVG/AD login.png"
+     inkscape:export-xdpi="500"
+     inkscape:export-ydpi="500">
+    <path
+       style="fill:none;stroke:#000000;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path198"
+       stroke-miterlimit="10"
+       d="M 342.79048,581.83733 347,592 l 4.20952,-10.16267" />
+  </g>
+  <g
+     id="g208"
+     transform="translate(-32,-294)"
+     inkscape:export-filename="/media/amri/homes/Documents/proposalSkripsi/bahan/Prototype dan UML/UML SVG/AD login.png"
+     inkscape:export-xdpi="500"
+     inkscape:export-ydpi="500">
+    <g
+       id="g206">
+      <path
+         style="fill:none;stroke:none"
+         inkscape:connector-curvature="0"
+         d=""
+         id="path202" />
+      <text
+         style="font-style:normal;font-weight:normal;font-size:10px;font-family:Arial;text-decoration:none;text-decoration-line:none;fill:#000000;stroke:none"
+         id="text204"
+         y="552.5"
+         x="355.5"
+         text-decoration="none"
+         font-weight="normal"
+         font-style="normal"
+         font-size="10px">Ya</text>
+    </g>
+  </g>
+  <g
+     id="g212"
+     transform="translate(-32,-294)"
+     inkscape:export-filename="/media/amri/homes/Documents/proposalSkripsi/bahan/Prototype dan UML/UML SVG/AD login.png"
+     inkscape:export-xdpi="500"
+     inkscape:export-ydpi="500">
+    <path
+       style="opacity:0.2;fill:#c0c0c0;stroke:none"
+       inkscape:connector-curvature="0"
+       id="path210"
+       d="m 140,683.5 c 0,-6.90356 5.59644,-12.5 12.5,-12.5 6.90356,0 12.5,5.59644 12.5,12.5 0,6.90356 -5.59644,12.5 -12.5,12.5 -6.90356,0 -12.5,-5.59644 -12.5,-12.5 z" />
+  </g>
+  <g
+     id="g216"
+     transform="translate(-32,-294)"
+     inkscape:export-filename="/media/amri/homes/Documents/proposalSkripsi/bahan/Prototype dan UML/UML SVG/AD login.png"
+     inkscape:export-xdpi="500"
+     inkscape:export-ydpi="500">
+    <path
+       style="fill:none;stroke:#000000;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path214"
+       stroke-miterlimit="10"
+       d="m 133,676.5 c 0,-6.90356 5.59644,-12.5 12.5,-12.5 6.90356,0 12.5,5.59644 12.5,12.5 0,6.90356 -5.59644,12.5 -12.5,12.5 -6.90356,0 -12.5,-5.59644 -12.5,-12.5 z" />
+  </g>
+  <g
+     id="g220"
+     transform="translate(-32,-294)"
+     inkscape:export-filename="/media/amri/homes/Documents/proposalSkripsi/bahan/Prototype dan UML/UML SVG/AD login.png"
+     inkscape:export-xdpi="500"
+     inkscape:export-ydpi="500">
+    <path
+       style="fill:#000000;stroke:none"
+       inkscape:connector-curvature="0"
+       id="path218"
+       d="m 138,676.5 c 0,-4.14214 3.35786,-7.5 7.5,-7.5 4.14214,0 7.5,3.35786 7.5,7.5 0,4.14214 -3.35786,7.5 -7.5,7.5 -4.14214,0 -7.5,-3.35786 -7.5,-7.5 z" />
+  </g>
+  <g
+     id="g224"
+     transform="translate(-32,-294)"
+     inkscape:export-filename="/media/amri/homes/Documents/proposalSkripsi/bahan/Prototype dan UML/UML SVG/AD login.png"
+     inkscape:export-xdpi="500"
+     inkscape:export-ydpi="500">
+    <path
+       style="opacity:0.2;fill:#c0c0c0;stroke:none"
+       inkscape:connector-curvature="0"
+       id="path222"
+       d="m 102,599 h 101.25586 q 10,0 10,10 v 19 q 0,10 -10,10 H 102 q -10,0 -10,-10 v -19 q 0,-10 10,-10 z" />
+  </g>
+  <g
+     id="g228"
+     transform="translate(-32,-294)"
+     inkscape:export-filename="/media/amri/homes/Documents/proposalSkripsi/bahan/Prototype dan UML/UML SVG/AD login.png"
+     inkscape:export-xdpi="500"
+     inkscape:export-ydpi="500">
+    <path
+       style="fill:#ffffff;stroke:none"
+       inkscape:connector-curvature="0"
+       id="path226"
+       d="m 95,592 h 101.25586 q 10,0 10,10 v 19 q 0,10 -10,10 H 95 q -10,0 -10,-10 v -19 q 0,-10 10,-10 z" />
+  </g>
+  <g
+     id="g232"
+     transform="translate(-32,-294)"
+     inkscape:export-filename="/media/amri/homes/Documents/proposalSkripsi/bahan/Prototype dan UML/UML SVG/AD login.png"
+     inkscape:export-xdpi="500"
+     inkscape:export-ydpi="500">
+    <path
+       style="fill:none;stroke:#000000;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path230"
+       stroke-miterlimit="10"
+       d="m 95,592 h 101.25586 q 10,0 10,10 v 19 q 0,10 -10,10 H 95 q -10,0 -10,-10 v -19 q 0,-10 10,-10 z" />
+  </g>
+  <g
+     id="g240"
+     transform="translate(-32,-294)"
+     inkscape:export-filename="/media/amri/homes/Documents/proposalSkripsi/bahan/Prototype dan UML/UML SVG/AD login.png"
+     inkscape:export-xdpi="500"
+     inkscape:export-ydpi="500">
+    <g
+       id="g238">
+      <path
+         style="fill:none;stroke:none"
+         inkscape:connector-curvature="0"
+         d=""
+         id="path234" />
+      <text
+         style="font-style:normal;font-weight:bold;font-size:10px;font-family:Arial;text-decoration:none;text-decoration-line:none;fill:#000000;stroke:none"
+         id="text236"
+         y="608.5"
+         x="91.995117"
+         text-decoration="none"
+         font-weight="bold"
+         font-style="normal"
+         font-size="10px">Melihat Halaman Utama</text>
+    </g>
+  </g>
+  <g
+     id="g244"
+     transform="translate(-32,-294)"
+     inkscape:export-filename="/media/amri/homes/Documents/proposalSkripsi/bahan/Prototype dan UML/UML SVG/AD login.png"
+     inkscape:export-xdpi="500"
+     inkscape:export-ydpi="500">
+    <path
+       style="opacity:0.2;fill:#c0c0c0;stroke:none"
+       inkscape:connector-curvature="0"
+       id="path242"
+       d="m 294,375 h 121.28027 q 10,0 10,10 v 27 q 0,10 -10,10 H 294 q -10,0 -10,-10 v -27 q 0,-10 10,-10 z" />
+  </g>
+  <g
+     id="g248"
+     transform="translate(-32,-294)"
+     inkscape:export-filename="/media/amri/homes/Documents/proposalSkripsi/bahan/Prototype dan UML/UML SVG/AD login.png"
+     inkscape:export-xdpi="500"
+     inkscape:export-ydpi="500">
+    <path
+       style="fill:#ffffff;stroke:none"
+       inkscape:connector-curvature="0"
+       id="path246"
+       d="m 287,368 h 121.28027 q 10,0 10,10 v 27 q 0,10 -10,10 H 287 q -10,0 -10,-10 v -27 q 0,-10 10,-10 z" />
+  </g>
+  <g
+     id="g252"
+     transform="translate(-32,-294)"
+     inkscape:export-filename="/media/amri/homes/Documents/proposalSkripsi/bahan/Prototype dan UML/UML SVG/AD login.png"
+     inkscape:export-xdpi="500"
+     inkscape:export-ydpi="500">
+    <path
+       style="fill:none;stroke:#000000;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path250"
+       stroke-miterlimit="10"
+       d="m 287,368 h 121.28027 q 10,0 10,10 v 27 q 0,10 -10,10 H 287 q -10,0 -10,-10 v -27 q 0,-10 10,-10 z" />
+  </g>
+  <g
+     id="g260"
+     transform="translate(-32,-294)"
+     inkscape:export-filename="/media/amri/homes/Documents/proposalSkripsi/bahan/Prototype dan UML/UML SVG/AD login.png"
+     inkscape:export-xdpi="500"
+     inkscape:export-ydpi="500">
+    <g
+       id="g258">
+      <path
+         style="fill:none;stroke:none"
+         inkscape:connector-curvature="0"
+         d=""
+         id="path254" />
+      <text
+         style="font-style:normal;font-weight:bold;font-size:10px;font-family:Arial;text-decoration:none;text-decoration-line:none;fill:#000000;stroke:none"
+         id="text256"
+         y="384.5"
+         x="285.48926"
+         text-decoration="none"
+         font-weight="bold"
+         font-style="normal"
+         font-size="10px">Validasi UserID &amp; Password</text>
+    </g>
+  </g>
+  <g
+     id="g264"
+     transform="translate(-32,-294)"
+     inkscape:export-filename="/media/amri/homes/Documents/proposalSkripsi/bahan/Prototype dan UML/UML SVG/AD login.png"
+     inkscape:export-xdpi="500"
+     inkscape:export-ydpi="500">
+    <path
+       style="opacity:0.2;fill:#c0c0c0;stroke:none"
+       inkscape:connector-curvature="0"
+       id="path262"
+       d="m 97,487 h 111.82227 q 10,0 10,10 v 19 q 0,10 -10,10 H 97 q -10,0 -10,-10 v -19 q 0,-10 10,-10 z" />
+  </g>
+  <g
+     id="g268"
+     transform="translate(-32,-294)"
+     inkscape:export-filename="/media/amri/homes/Documents/proposalSkripsi/bahan/Prototype dan UML/UML SVG/AD login.png"
+     inkscape:export-xdpi="500"
+     inkscape:export-ydpi="500">
+    <path
+       style="fill:#ffffff;stroke:none"
+       inkscape:connector-curvature="0"
+       id="path266"
+       d="m 90,480 h 111.82227 q 10,0 10,10 v 19 q 0,10 -10,10 H 90 q -10,0 -10,-10 v -19 q 0,-10 10,-10 z" />
+  </g>
+  <g
+     id="g272"
+     transform="translate(-32,-294)"
+     inkscape:export-filename="/media/amri/homes/Documents/proposalSkripsi/bahan/Prototype dan UML/UML SVG/AD login.png"
+     inkscape:export-xdpi="500"
+     inkscape:export-ydpi="500">
+    <path
+       style="fill:none;stroke:#000000;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path270"
+       stroke-miterlimit="10"
+       d="m 90,480 h 111.82227 q 10,0 10,10 v 19 q 0,10 -10,10 H 90 q -10,0 -10,-10 v -19 q 0,-10 10,-10 z" />
+  </g>
+  <g
+     id="g280"
+     transform="translate(-32,-294)"
+     inkscape:export-filename="/media/amri/homes/Documents/proposalSkripsi/bahan/Prototype dan UML/UML SVG/AD login.png"
+     inkscape:export-xdpi="500"
+     inkscape:export-ydpi="500">
+    <g
+       id="g278">
+      <path
+         style="fill:none;stroke:none"
+         inkscape:connector-curvature="0"
+         d=""
+         id="path274" />
+      <text
+         style="font-style:normal;font-weight:bold;font-size:10px;font-family:Arial;text-decoration:none;text-decoration-line:none;fill:#000000;stroke:none"
+         id="text276"
+         y="496.5"
+         x="88.108398"
+         text-decoration="none"
+         font-weight="bold"
+         font-style="normal"
+         font-size="10px">Menampilkan Pesan Error</text>
+    </g>
+  </g>
+  <g
+     id="g284"
+     transform="translate(-32,-294)"
+     inkscape:export-filename="/media/amri/homes/Documents/proposalSkripsi/bahan/Prototype dan UML/UML SVG/AD login.png"
+     inkscape:export-xdpi="500"
+     inkscape:export-ydpi="500">
+    <path
+       style="fill:none;stroke:#000000;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path282"
+       stroke-miterlimit="10"
+       d="m 145,355 v 21" />
+  </g>
+  <g
+     id="g288"
+     transform="translate(-32,-294)"
+     inkscape:export-filename="/media/amri/homes/Documents/proposalSkripsi/bahan/Prototype dan UML/UML SVG/AD login.png"
+     inkscape:export-xdpi="500"
+     inkscape:export-ydpi="500">
+    <path
+       style="fill:none;stroke:#000000;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path286"
+       stroke-miterlimit="10"
+       d="M 140.79048,365.83733 145,376 l 4.20952,-10.16267" />
+  </g>
+  <g
+     id="g292"
+     transform="translate(-32,-294)"
+     inkscape:export-filename="/media/amri/homes/Documents/proposalSkripsi/bahan/Prototype dan UML/UML SVG/AD login.png"
+     inkscape:export-xdpi="500"
+     inkscape:export-ydpi="500">
+    <path
+       style="fill:none;stroke:#000000;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path290"
+       stroke-miterlimit="10"
+       d="m 196,394 h 81" />
+  </g>
+  <g
+     id="g296"
+     transform="translate(-32,-294)"
+     inkscape:export-filename="/media/amri/homes/Documents/proposalSkripsi/bahan/Prototype dan UML/UML SVG/AD login.png"
+     inkscape:export-xdpi="500"
+     inkscape:export-ydpi="500">
+    <path
+       style="fill:none;stroke:#000000;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path294"
+       stroke-miterlimit="10"
+       d="M 266.83733,398.20952 277,394 266.83733,389.79048" />
+  </g>
+  <g
+     id="g300"
+     transform="translate(-32,-294)"
+     inkscape:export-filename="/media/amri/homes/Documents/proposalSkripsi/bahan/Prototype dan UML/UML SVG/AD login.png"
+     inkscape:export-xdpi="500"
+     inkscape:export-ydpi="500">
+    <path
+       style="fill:none;stroke:#000000;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path298"
+       stroke-miterlimit="10"
+       d="M 288,611 H 206" />
+  </g>
+  <g
+     id="g304"
+     transform="translate(-32,-294)"
+     inkscape:export-filename="/media/amri/homes/Documents/proposalSkripsi/bahan/Prototype dan UML/UML SVG/AD login.png"
+     inkscape:export-xdpi="500"
+     inkscape:export-ydpi="500">
+    <path
+       style="fill:none;stroke:#000000;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path302"
+       stroke-miterlimit="10"
+       d="M 216.16267,606.79048 206,611 l 10.16267,4.20952" />
+  </g>
+  <g
+     id="g308"
+     transform="translate(-32,-294)"
+     inkscape:export-filename="/media/amri/homes/Documents/proposalSkripsi/bahan/Prototype dan UML/UML SVG/AD login.png"
+     inkscape:export-xdpi="500"
+     inkscape:export-ydpi="500">
+    <path
+       style="fill:none;stroke:#000000;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path306"
+       stroke-miterlimit="10"
+       d="m 145,631 v 33" />
+  </g>
+  <g
+     id="g312"
+     transform="translate(-32,-294)"
+     inkscape:export-filename="/media/amri/homes/Documents/proposalSkripsi/bahan/Prototype dan UML/UML SVG/AD login.png"
+     inkscape:export-xdpi="500"
+     inkscape:export-ydpi="500">
+    <path
+       style="fill:none;stroke:#000000;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path310"
+       stroke-miterlimit="10"
+       d="M 140.79048,653.83733 145,664 l 4.20952,-10.16267" />
+  </g>
+  <g
+     id="g316"
+     transform="translate(-32,-294)"
+     inkscape:export-filename="/media/amri/homes/Documents/proposalSkripsi/bahan/Prototype dan UML/UML SVG/AD login.png"
+     inkscape:export-xdpi="500"
+     inkscape:export-ydpi="500">
+    <path
+       style="fill:none;stroke:#000000;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path314"
+       stroke-miterlimit="10"
+       d="M 80,497 H 56 v 183 h 77" />
+  </g>
+  <g
+     id="g320"
+     transform="translate(-32,-294)"
+     inkscape:export-filename="/media/amri/homes/Documents/proposalSkripsi/bahan/Prototype dan UML/UML SVG/AD login.png"
+     inkscape:export-xdpi="500"
+     inkscape:export-ydpi="500">
+    <path
+       style="fill:none;stroke:#000000;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path318"
+       stroke-miterlimit="10"
+       d="M 122.83733,684.20952 133,680 122.83733,675.79048" />
+  </g>
+  <g
+     id="g324"
+     transform="translate(-32,-294)"
+     inkscape:export-filename="/media/amri/homes/Documents/proposalSkripsi/bahan/Prototype dan UML/UML SVG/AD login.png"
+     inkscape:export-xdpi="500"
+     inkscape:export-ydpi="500">
+    <path
+       style="fill:none;stroke:#000000;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path322"
+       stroke-miterlimit="10"
+       d="m 347,415 v 73" />
+  </g>
+  <g
+     id="g328"
+     transform="translate(-32,-294)"
+     inkscape:export-filename="/media/amri/homes/Documents/proposalSkripsi/bahan/Prototype dan UML/UML SVG/AD login.png"
+     inkscape:export-xdpi="500"
+     inkscape:export-ydpi="500">
+    <path
+       style="fill:none;stroke:#000000;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path326"
+       stroke-miterlimit="10"
+       d="M 342.79048,477.83733 347,488 l 4.20952,-10.16267" />
+  </g>
+  <g
+     id="g332"
+     transform="translate(-32,-294)"
+     inkscape:export-filename="/media/amri/homes/Documents/proposalSkripsi/bahan/Prototype dan UML/UML SVG/AD login.png"
+     inkscape:export-xdpi="500"
+     inkscape:export-ydpi="500">
+    <path
+       style="fill:none;stroke:#000000;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path330"
+       stroke-miterlimit="10"
+       d="M 336,498 H 212" />
+  </g>
+  <g
+     id="g336"
+     transform="translate(-32,-294)"
+     inkscape:export-filename="/media/amri/homes/Documents/proposalSkripsi/bahan/Prototype dan UML/UML SVG/AD login.png"
+     inkscape:export-xdpi="500"
+     inkscape:export-ydpi="500">
+    <path
+       style="fill:none;stroke:#000000;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path334"
+       stroke-miterlimit="10"
+       d="M 222.16267,493.79048 212,498 l 10.16267,4.20952" />
+  </g>
+  <g
+     id="g344"
+     transform="translate(-32,-294)"
+     inkscape:export-filename="/media/amri/homes/Documents/proposalSkripsi/bahan/Prototype dan UML/UML SVG/AD login.png"
+     inkscape:export-xdpi="500"
+     inkscape:export-ydpi="500">
+    <g
+       id="g342">
+      <path
+         style="fill:none;stroke:none"
+         inkscape:connector-curvature="0"
+         d=""
+         id="path338" />
+      <text
+         style="font-style:normal;font-weight:normal;font-size:10px;font-family:Arial;text-decoration:none;text-decoration-line:none;fill:#000000;stroke:none"
+         id="text340"
+         y="517.5"
+         x="260.5"
+         text-decoration="none"
+         font-weight="normal"
+         font-style="normal"
+         font-size="10px">Tidak</text>
+    </g>
+  </g>
+</svg>
