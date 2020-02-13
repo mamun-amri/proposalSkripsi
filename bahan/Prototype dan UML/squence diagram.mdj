@@ -1,0 +1,380 @@
+{
+	"_type": "Project",
+	"_id": "AAAAAAFF+h6SjaM2Hec=",
+	"name": "Untitled",
+	"ownedElements": [
+		{
+			"_type": "UMLCollaboration",
+			"_id": "AAAAAAFwPLZiY7rvhxg=",
+			"_parent": {
+				"$ref": "AAAAAAFF+h6SjaM2Hec="
+			},
+			"name": "SequenceDiagram kelola user",
+			"ownedElements": [
+				{
+					"_type": "UMLInteraction",
+					"_id": "AAAAAAFwPLZiZrrwfOM=",
+					"_parent": {
+						"$ref": "AAAAAAFwPLZiY7rvhxg="
+					},
+					"name": "Interaction1",
+					"ownedElements": [
+						{
+							"_type": "UMLSequenceDiagram",
+							"_id": "AAAAAAFwPLZiZ7rxTu8=",
+							"_parent": {
+								"$ref": "AAAAAAFwPLZiZrrwfOM="
+							},
+							"name": "SequenceDiagram kelola user",
+							"ownedViews": [
+								{
+									"_type": "UMLFrameView",
+									"_id": "AAAAAAFwPLZiabry9Yg=",
+									"_parent": {
+										"$ref": "AAAAAAFwPLZiZ7rxTu8="
+									},
+									"model": {
+										"$ref": "AAAAAAFwPLZiZ7rxTu8="
+									},
+									"subViews": [
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAFwPLZiabrzQKY=",
+											"_parent": {
+												"$ref": "AAAAAAFwPLZiabry9Yg="
+											},
+											"font": "Arial;10;0",
+											"left": 62.1376953125,
+											"top": 10,
+											"width": 134.96484375,
+											"height": 10,
+											"text": "SequenceDiagram kelola user"
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAFwPLZiarr0zDk=",
+											"_parent": {
+												"$ref": "AAAAAAFwPLZiabry9Yg="
+											},
+											"font": "Arial;10;1",
+											"left": 10,
+											"top": 10,
+											"width": 47.1376953125,
+											"height": 10,
+											"text": "interaction"
+										}
+									],
+									"font": "Arial;10;0",
+									"left": 5,
+									"top": 5,
+									"width": 695,
+									"height": 595,
+									"nameLabel": {
+										"$ref": "AAAAAAFwPLZiabrzQKY="
+									},
+									"frameTypeLabel": {
+										"$ref": "AAAAAAFwPLZiarr0zDk="
+									}
+								},
+								{
+									"_type": "UMLSeqLifelineView",
+									"_id": "AAAAAAFwPLe8nLs6c8I=",
+									"_parent": {
+										"$ref": "AAAAAAFwPLZiZ7rxTu8="
+									},
+									"model": {
+										"$ref": "AAAAAAFwPLe8nLs592A="
+									},
+									"subViews": [
+										{
+											"_type": "UMLNameCompartmentView",
+											"_id": "AAAAAAFwPLe8nbs7EV8=",
+											"_parent": {
+												"$ref": "AAAAAAFwPLe8nLs6c8I="
+											},
+											"model": {
+												"$ref": "AAAAAAFwPLe8nLs592A="
+											},
+											"subViews": [
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAFwPLe8nbs8wKo=",
+													"_parent": {
+														"$ref": "AAAAAAFwPLe8nbs7EV8="
+													},
+													"visible": false,
+													"font": "Arial;10;0",
+													"left": 61,
+													"top": 85,
+													"width": 87.783203125,
+													"height": 10
+												},
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAFwPLe8nbs9GGw=",
+													"_parent": {
+														"$ref": "AAAAAAFwPLe8nbs7EV8="
+													},
+													"font": "Arial;10;1",
+													"left": 61,
+													"top": 87,
+													"width": 106.2216796875,
+													"height": 10,
+													"text": "Lifeline: Admin"
+												},
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAFwPLe8nbs+hPE=",
+													"_parent": {
+														"$ref": "AAAAAAFwPLe8nbs7EV8="
+													},
+													"visible": false,
+													"font": "Arial;10;0",
+													"left": -96,
+													"width": 81.6943359375,
+													"height": 10,
+													"text": "(from Interaction1)"
+												},
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAFwPLe8nbs/u7Q=",
+													"_parent": {
+														"$ref": "AAAAAAFwPLe8nbs7EV8="
+													},
+													"visible": false,
+													"font": "Arial;10;0",
+													"left": -96,
+													"height": 10,
+													"horizontalAlignment": 1
+												}
+											],
+											"font": "Arial;10;0",
+											"left": 56,
+											"top": 80,
+											"width": 116.2216796875,
+											"height": 22,
+											"stereotypeLabel": {
+												"$ref": "AAAAAAFwPLe8nbs8wKo="
+											},
+											"nameLabel": {
+												"$ref": "AAAAAAFwPLe8nbs9GGw="
+											},
+											"namespaceLabel": {
+												"$ref": "AAAAAAFwPLe8nbs+hPE="
+											},
+											"propertyLabel": {
+												"$ref": "AAAAAAFwPLe8nbs/u7Q="
+											}
+										},
+										{
+											"_type": "UMLLinePartView",
+											"_id": "AAAAAAFwPLe8nbtA6TU=",
+											"_parent": {
+												"$ref": "AAAAAAFwPLe8nLs6c8I="
+											},
+											"model": {
+												"$ref": "AAAAAAFwPLe8nLs592A="
+											},
+											"font": "Arial;10;0",
+											"left": 114,
+											"top": 102,
+											"width": 1,
+											"height": 138
+										}
+									],
+									"font": "Arial;10;0",
+									"left": 56,
+									"top": 40,
+									"width": 116.2216796875,
+									"height": 200,
+									"stereotypeDisplay": "icon",
+									"nameCompartment": {
+										"$ref": "AAAAAAFwPLe8nbs7EV8="
+									},
+									"linePart": {
+										"$ref": "AAAAAAFwPLe8nbtA6TU="
+									}
+								},
+								{
+									"_type": "UMLSeqLifelineView",
+									"_id": "AAAAAAFwPLorvruReM4=",
+									"_parent": {
+										"$ref": "AAAAAAFwPLZiZ7rxTu8="
+									},
+									"model": {
+										"$ref": "AAAAAAFwPLorvruQYWk="
+									},
+									"subViews": [
+										{
+											"_type": "UMLNameCompartmentView",
+											"_id": "AAAAAAFwPLorvruSNuQ=",
+											"_parent": {
+												"$ref": "AAAAAAFwPLorvruReM4="
+											},
+											"model": {
+												"$ref": "AAAAAAFwPLorvruQYWk="
+											},
+											"subViews": [
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAFwPLorvruTw8Q=",
+													"_parent": {
+														"$ref": "AAAAAAFwPLorvruSNuQ="
+													},
+													"visible": false,
+													"font": "Arial;10;0",
+													"height": 10
+												},
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAFwPLorvruUvAw=",
+													"_parent": {
+														"$ref": "AAAAAAFwPLorvruSNuQ="
+													},
+													"font": "Arial;10;1",
+													"left": 189,
+													"top": 47,
+													"width": 90.029296875,
+													"height": 10,
+													"text": "Form kelola user"
+												},
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAFwPLorvruVazA=",
+													"_parent": {
+														"$ref": "AAAAAAFwPLorvruSNuQ="
+													},
+													"visible": false,
+													"font": "Arial;10;0",
+													"width": 81.6943359375,
+													"height": 10,
+													"text": "(from Interaction1)"
+												},
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAFwPLorvruWpRg=",
+													"_parent": {
+														"$ref": "AAAAAAFwPLorvruSNuQ="
+													},
+													"visible": false,
+													"font": "Arial;10;0",
+													"height": 10,
+													"horizontalAlignment": 1
+												}
+											],
+											"font": "Arial;10;0",
+											"left": 184,
+											"top": 40,
+											"width": 100.029296875,
+											"height": 40,
+											"stereotypeLabel": {
+												"$ref": "AAAAAAFwPLorvruTw8Q="
+											},
+											"nameLabel": {
+												"$ref": "AAAAAAFwPLorvruUvAw="
+											},
+											"namespaceLabel": {
+												"$ref": "AAAAAAFwPLorvruVazA="
+											},
+											"propertyLabel": {
+												"$ref": "AAAAAAFwPLorvruWpRg="
+											}
+										},
+										{
+											"_type": "UMLLinePartView",
+											"_id": "AAAAAAFwPLorvruXG/s=",
+											"_parent": {
+												"$ref": "AAAAAAFwPLorvruReM4="
+											},
+											"model": {
+												"$ref": "AAAAAAFwPLorvruQYWk="
+											},
+											"font": "Arial;10;0",
+											"left": 234,
+											"top": 80,
+											"width": 1,
+											"height": 160
+										}
+									],
+									"font": "Arial;10;0",
+									"left": 184,
+									"top": 40,
+									"width": 100.029296875,
+									"height": 200,
+									"nameCompartment": {
+										"$ref": "AAAAAAFwPLorvruSNuQ="
+									},
+									"linePart": {
+										"$ref": "AAAAAAFwPLorvruXG/s="
+									}
+								}
+							]
+						}
+					],
+					"participants": [
+						{
+							"_type": "UMLLifeline",
+							"_id": "AAAAAAFwPLe8nLs592A=",
+							"_parent": {
+								"$ref": "AAAAAAFwPLZiZrrwfOM="
+							},
+							"name": "Lifeline",
+							"represent": {
+								"$ref": "AAAAAAFwPLe8nLs4d7Q="
+							},
+							"isMultiInstance": false
+						},
+						{
+							"_type": "UMLLifeline",
+							"_id": "AAAAAAFwPLorvruQYWk=",
+							"_parent": {
+								"$ref": "AAAAAAFwPLZiZrrwfOM="
+							},
+							"name": "Form kelola user",
+							"represent": {
+								"$ref": "AAAAAAFwPLorvruPA30="
+							},
+							"isMultiInstance": false
+						}
+					]
+				}
+			],
+			"attributes": [
+				{
+					"_type": "UMLAttribute",
+					"_id": "AAAAAAFwPLcULbsA8KI=",
+					"_parent": {
+						"$ref": "AAAAAAFwPLZiY7rvhxg="
+					},
+					"name": "Role1",
+					"type": "Admin"
+				},
+				{
+					"_type": "UMLAttribute",
+					"_id": "AAAAAAFwPLe8nLs4d7Q=",
+					"_parent": {
+						"$ref": "AAAAAAFwPLZiY7rvhxg="
+					},
+					"name": "Role2",
+					"type": "Admin"
+				},
+				{
+					"_type": "UMLAttribute",
+					"_id": "AAAAAAFwPLggK7taugg=",
+					"_parent": {
+						"$ref": "AAAAAAFwPLZiY7rvhxg="
+					},
+					"name": "Role3"
+				},
+				{
+					"_type": "UMLAttribute",
+					"_id": "AAAAAAFwPLorvruPA30=",
+					"_parent": {
+						"$ref": "AAAAAAFwPLZiY7rvhxg="
+					},
+					"name": "Role4"
+				}
+			]
+		}
+	]
+}

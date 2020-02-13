@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="401"
+   height="452"
+   id="svg282"
+   sodipodi:docname="Activity Diagram Tentang Aplikasi!ActivityDiagram Tentang Aplikasi_13.svg"
+   inkscape:export-filename="/media/amri/homes/Documents/proposalSkripsi/bahan/Prototype dan UML/svg/Activity Diagram Tentang Aplikasi.png"
+   inkscape:export-xdpi="500"
+   inkscape:export-ydpi="500"
+   inkscape:version="0.92.4 (0.92.4+202001282325+e23c7ed)">
+  <metadata
+     id="metadata286">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="717"
+     id="namedview284"
+     showgrid="false"
+     inkscape:zoom="0.52212389"
+     inkscape:cx="200.5"
+     inkscape:cy="226"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg282" />
+  <defs
+     id="defs2" />
+  <g
+     id="g102"
+     transform="translate(-9,-302)">
+    <rect
+       style="fill:#ffffff;stroke:none"
+       id="rect100"
+       height="18"
+       width="179"
+       y="312"
+       x="19" />
+  </g>
+  <g
+     id="g106"
+     transform="translate(-9,-302)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path104"
+       stroke-miterlimit="10"
+       d="m 19,312 h 179 v 18 H 19 Z" />
+  </g>
+  <g
+     id="g110"
+     transform="translate(-9,-302)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path108"
+       stroke-miterlimit="10"
+       d="M 19,744 V 312 h 179 v 432" />
+  </g>
+  <g
+     id="g118"
+     transform="translate(-9,-302)">
+    <g
+       id="g116">
+      <path
+         style="fill:none;stroke:none"
+         inkscape:connector-curvature="0"
+         d=""
+         id="path112" />
+      <text
+         style="font-style:normal;font-weight:normal;font-size:10px;font-family:Arial;text-decoration:none;text-decoration-line:none;fill:#000000;stroke:none"
+         id="text114"
+         y="326"
+         x="84.78418"
+         text-decoration="none"
+         font-weight="normal"
+         font-style="normal"
+         font-size="10px">Orang Tua</text>
+    </g>
+  </g>
+  <g
+     id="g122"
+     transform="translate(-9,-302)">
+    <rect
+       style="fill:#ffffff;stroke:none"
+       id="rect120"
+       height="18"
+       width="193"
+       y="312"
+       x="207" />
+  </g>
+  <g
+     id="g126"
+     transform="translate(-9,-302)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path124"
+       stroke-miterlimit="10"
+       d="m 207,312 h 193 v 18 H 207 Z" />
+  </g>
+  <g
+     id="g130"
+     transform="translate(-9,-302)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path128"
+       stroke-miterlimit="10"
+       d="M 207,744 V 312 h 193 v 432" />
+  </g>
+  <g
+     id="g138"
+     transform="translate(-9,-302)">
+    <g
+       id="g136">
+      <path
+         style="fill:none;stroke:none"
+         inkscape:connector-curvature="0"
+         d=""
+         id="path132" />
+      <text
+         style="font-style:normal;font-weight:normal;font-size:10px;font-family:Arial;text-decoration:none;text-decoration-line:none;fill:#000000;stroke:none"
+         id="text134"
+         y="326"
+         x="288.21924"
+         text-decoration="none"
+         font-weight="normal"
+         font-style="normal"
+         font-size="10px">Sistem</text>
+    </g>
+  </g>
+  <g
+     id="g142"
+     transform="translate(-9,-302)">
+    <path
+       style="opacity:0.2;fill:#c0c0c0;stroke:none"
+       inkscape:connector-curvature="0"
+       id="path140"
+       d="m 106,360.5 c 0,-5.24671 4.25329,-9.5 9.5,-9.5 5.24671,0 9.5,4.25329 9.5,9.5 0,5.24671 -4.25329,9.5 -9.5,9.5 -5.24671,0 -9.5,-4.25329 -9.5,-9.5 z" />
+  </g>
+  <g
+     id="g146"
+     transform="translate(-9,-302)">
+    <path
+       style="fill:#000000;stroke:none"
+       inkscape:connector-curvature="0"
+       id="path144"
+       d="m 99,353.5 c 0,-5.24671 4.25329,-9.5 9.5,-9.5 5.24671,0 9.5,4.25329 9.5,9.5 0,5.24671 -4.25329,9.5 -9.5,9.5 -5.24671,0 -9.5,-4.25329 -9.5,-9.5 z" />
+  </g>
+  <g
+     id="g150"
+     transform="translate(-9,-302)">
+    <path
+       style="opacity:0.2;fill:#c0c0c0;stroke:none"
+       inkscape:connector-curvature="0"
+       id="path148"
+       d="m 83,399 h 64.0293 q 10,0 10,10 v 19 q 0,10 -10,10 H 83 q -10,0 -10,-10 v -19 q 0,-10 10,-10 z" />
+  </g>
+  <g
+     id="g154"
+     transform="translate(-9,-302)">
+    <path
+       style="fill:#ffffff;stroke:none"
+       inkscape:connector-curvature="0"
+       id="path152"
+       d="m 76,392 h 64.0293 q 10,0 10,10 v 19 q 0,10 -10,10 H 76 q -10,0 -10,-10 v -19 q 0,-10 10,-10 z" />
+  </g>
+  <g
+     id="g158"
+     transform="translate(-9,-302)">
+    <path
+       style="fill:none;stroke:#000000;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path156"
+       stroke-miterlimit="10"
+       d="m 76,392 h 64.0293 q 10,0 10,10 v 19 q 0,10 -10,10 H 76 q -10,0 -10,-10 v -19 q 0,-10 10,-10 z" />
+  </g>
+  <g
+     id="g166"
+     transform="translate(-9,-302)">
+    <g
+       id="g164">
+      <path
+         style="fill:none;stroke:none"
+         inkscape:connector-curvature="0"
+         d=""
+         id="path160" />
+      <text
+         style="font-style:normal;font-weight:bold;font-size:10px;font-family:Arial;text-decoration:none;text-decoration-line:none;fill:#000000;stroke:none"
+         id="text162"
+         y="408.5"
+         x="71.88916"
+         text-decoration="none"
+         font-weight="bold"
+         font-style="normal"
+         font-size="10px">Halaman Utama</text>
+    </g>
+  </g>
+  <g
+     id="g170"
+     transform="translate(-9,-302)">
+    <path
+       style="opacity:0.2;fill:#c0c0c0;stroke:none"
+       inkscape:connector-curvature="0"
+       id="path168"
+       d="m 55,471 h 121.05078 q 10,0 10,10 v 19 q 0,10 -10,10 H 55 q -10,0 -10,-10 v -19 q 0,-10 10,-10 z" />
+  </g>
+  <g
+     id="g174"
+     transform="translate(-9,-302)">
+    <path
+       style="fill:#ffffff;stroke:none"
+       inkscape:connector-curvature="0"
+       id="path172"
+       d="m 48,464 h 121.05078 q 10,0 10,10 v 19 q 0,10 -10,10 H 48 q -10,0 -10,-10 v -19 q 0,-10 10,-10 z" />
+  </g>
+  <g
+     id="g178"
+     transform="translate(-9,-302)">
+    <path
+       style="fill:none;stroke:#000000;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path176"
+       stroke-miterlimit="10"
+       d="m 48,464 h 121.05078 q 10,0 10,10 v 19 q 0,10 -10,10 H 48 q -10,0 -10,-10 v -19 q 0,-10 10,-10 z" />
+  </g>
+  <g
+     id="g186"
+     transform="translate(-9,-302)">
+    <g
+       id="g184">
+      <path
+         style="fill:none;stroke:none"
+         inkscape:connector-curvature="0"
+         d=""
+         id="path180" />
+      <text
+         style="font-style:normal;font-weight:bold;font-size:10px;font-family:Arial;text-decoration:none;text-decoration-line:none;fill:#000000;stroke:none"
+         id="text182"
+         y="480.5"
+         x="47.380371"
+         text-decoration="none"
+         font-weight="bold"
+         font-style="normal"
+         font-size="10px">Pilih Menu Tentang Aplikasi</text>
+    </g>
+  </g>
+  <g
+     id="g190"
+     transform="translate(-9,-302)">
+    <path
+       style="opacity:0.2;fill:#c0c0c0;stroke:none"
+       inkscape:connector-curvature="0"
+       id="path188"
+       d="m 103,635.5 c 0,-6.90356 5.59644,-12.5 12.5,-12.5 6.90356,0 12.5,5.59644 12.5,12.5 0,6.90356 -5.59644,12.5 -12.5,12.5 -6.90356,0 -12.5,-5.59644 -12.5,-12.5 z" />
+  </g>
+  <g
+     id="g194"
+     transform="translate(-9,-302)">
+    <path
+       style="fill:none;stroke:#000000;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path192"
+       stroke-miterlimit="10"
+       d="m 96,628.5 c 0,-6.90356 5.59644,-12.5 12.5,-12.5 6.90356,0 12.5,5.59644 12.5,12.5 0,6.90356 -5.59644,12.5 -12.5,12.5 -6.90356,0 -12.5,-5.59644 -12.5,-12.5 z" />
+  </g>
+  <g
+     id="g198"
+     transform="translate(-9,-302)">
+    <path
+       style="fill:#000000;stroke:none"
+       inkscape:connector-curvature="0"
+       id="path196"
+       d="m 101,628.5 c 0,-4.14214 3.35786,-7.5 7.5,-7.5 4.14214,0 7.5,3.35786 7.5,7.5 0,4.14214 -3.35786,7.5 -7.5,7.5 -4.14214,0 -7.5,-3.35786 -7.5,-7.5 z" />
+  </g>
+  <g
+     id="g202"
+     transform="translate(-9,-302)">
+    <path
+       style="fill:none;stroke:#000000;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path200"
+       stroke-miterlimit="10"
+       d="m 105,363 v 29" />
+  </g>
+  <g
+     id="g206"
+     transform="translate(-9,-302)">
+    <path
+       style="fill:none;stroke:#000000;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path204"
+       stroke-miterlimit="10"
+       d="M 100.79048,381.83733 105,392 l 4.20952,-10.16267" />
+  </g>
+  <g
+     id="g210"
+     transform="translate(-9,-302)">
+    <path
+       style="fill:none;stroke:#000000;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path208"
+       stroke-miterlimit="10"
+       d="m 112,431 v 33" />
+  </g>
+  <g
+     id="g214"
+     transform="translate(-9,-302)">
+    <path
+       style="fill:none;stroke:#000000;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path212"
+       stroke-miterlimit="10"
+       d="M 107.79048,453.83733 112,464 l 4.20952,-10.16267" />
+  </g>
+  <g
+     id="g218"
+     transform="translate(-9,-302)">
+    <path
+       style="fill:none;stroke:#000000;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path216"
+       stroke-miterlimit="10"
+       d="m 303,503 v 57 H 171" />
+  </g>
+  <g
+     id="g222"
+     transform="translate(-9,-302)">
+    <path
+       style="fill:none;stroke:#000000;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path220"
+       stroke-miterlimit="10"
+       d="M 181.16267,555.79048 171,560 l 10.16267,4.20952" />
+  </g>
+  <g
+     id="g226"
+     transform="translate(-9,-302)">
+    <path
+       style="fill:none;stroke:#000000;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path224"
+       stroke-miterlimit="10"
+       d="m 109,583 v 33" />
+  </g>
+  <g
+     id="g230"
+     transform="translate(-9,-302)">
+    <path
+       style="fill:none;stroke:#000000;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path228"
+       stroke-miterlimit="10"
+       d="M 104.79048,605.83733 109,616 l 4.20952,-10.16267" />
+  </g>
+  <g
+     id="g234"
+     transform="translate(-9,-302)">
+    <path
+       style="opacity:0.2;fill:#c0c0c0;stroke:none"
+       inkscape:connector-curvature="0"
+       id="path232"
+       d="m 243,471 h 134.40039 q 10,0 10,10 v 19 q 0,10 -10,10 H 243 q -10,0 -10,-10 v -19 q 0,-10 10,-10 z" />
+  </g>
+  <g
+     id="g238"
+     transform="translate(-9,-302)">
+    <path
+       style="fill:#ffffff;stroke:none"
+       inkscape:connector-curvature="0"
+       id="path236"
+       d="m 236,464 h 134.40039 q 10,0 10,10 v 19 q 0,10 -10,10 H 236 q -10,0 -10,-10 v -19 q 0,-10 10,-10 z" />
+  </g>
+  <g
+     id="g242"
+     transform="translate(-9,-302)">
+    <path
+       style="fill:none;stroke:#000000;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path240"
+       stroke-miterlimit="10"
+       d="m 236,464 h 134.40039 q 10,0 10,10 v 19 q 0,10 -10,10 H 236 q -10,0 -10,-10 v -19 q 0,-10 10,-10 z" />
+  </g>
+  <g
+     id="g250"
+     transform="translate(-9,-302)">
+    <g
+       id="g248">
+      <path
+         style="fill:none;stroke:none"
+         inkscape:connector-curvature="0"
+         d=""
+         id="path244" />
+      <text
+         style="font-style:normal;font-weight:bold;font-size:10px;font-family:Arial;text-decoration:none;text-decoration-line:none;fill:#000000;stroke:none"
+         id="text246"
+         y="480.5"
+         x="235.66357"
+         text-decoration="none"
+         font-weight="bold"
+         font-style="normal"
+         font-size="10px">Menampilkan Tentang Aplikasi</text>
+    </g>
+  </g>
+  <g
+     id="g254"
+     transform="translate(-9,-302)">
+    <path
+       style="opacity:0.2;fill:#c0c0c0;stroke:none"
+       inkscape:connector-curvature="0"
+       id="path252"
+       d="m 63,551 h 105.49902 q 10,0 10,10 v 19 q 0,10 -10,10 H 63 q -10,0 -10,-10 v -19 q 0,-10 10,-10 z" />
+  </g>
+  <g
+     id="g258"
+     transform="translate(-9,-302)">
+    <path
+       style="fill:#ffffff;stroke:none"
+       inkscape:connector-curvature="0"
+       id="path256"
+       d="m 56,544 h 105.49902 q 10,0 10,10 v 19 q 0,10 -10,10 H 56 q -10,0 -10,-10 v -19 q 0,-10 10,-10 z" />
+  </g>
+  <g
+     id="g262"
+     transform="translate(-9,-302)">
+    <path
+       style="fill:none;stroke:#000000;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path260"
+       stroke-miterlimit="10"
+       d="m 56,544 h 105.49902 q 10,0 10,10 v 19 q 0,10 -10,10 H 56 q -10,0 -10,-10 v -19 q 0,-10 10,-10 z" />
+  </g>
+  <g
+     id="g270"
+     transform="translate(-9,-302)">
+    <g
+       id="g268">
+      <path
+         style="fill:none;stroke:none"
+         inkscape:connector-curvature="0"
+         d=""
+         id="path264" />
+      <text
+         style="font-style:normal;font-weight:bold;font-size:10px;font-family:Arial;text-decoration:none;text-decoration-line:none;fill:#000000;stroke:none"
+         id="text266"
+         y="560.5"
+         x="54.831055"
+         text-decoration="none"
+         font-weight="bold"
+         font-style="normal"
+         font-size="10px">Melihat Tentang Aplikasi</text>
+    </g>
+  </g>
+  <g
+     id="g274"
+     transform="translate(-9,-302)">
+    <path
+       style="fill:none;stroke:#000000;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path272"
+       stroke-miterlimit="10"
+       d="m 179,483 h 47" />
+  </g>
+  <g
+     id="g278"
+     transform="translate(-9,-302)">
+    <path
+       style="fill:none;stroke:#000000;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path276"
+       stroke-miterlimit="10"
+       d="M 215.83733,487.20952 226,483 215.83733,478.79048" />
+  </g>
+</svg>

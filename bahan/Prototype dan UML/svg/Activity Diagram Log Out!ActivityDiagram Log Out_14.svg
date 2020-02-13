@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="404"
+   height="452"
+   id="svg282"
+   sodipodi:docname="Activity Diagram Log Out!ActivityDiagram Log Out_14.svg"
+   inkscape:export-filename="/media/amri/homes/Documents/proposalSkripsi/bahan/Prototype dan UML/svg/Activity Diagram Log Out.png"
+   inkscape:export-xdpi="500"
+   inkscape:export-ydpi="500"
+   inkscape:version="0.92.4 (0.92.4+202001282325+e23c7ed)">
+  <metadata
+     id="metadata286">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="717"
+     id="namedview284"
+     showgrid="false"
+     inkscape:zoom="0.52212389"
+     inkscape:cx="202"
+     inkscape:cy="226"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg282" />
+  <defs
+     id="defs2" />
+  <g
+     id="g102"
+     transform="translate(-6,-302)">
+    <rect
+       style="fill:#ffffff;stroke:none"
+       id="rect100"
+       height="18"
+       width="179"
+       y="312"
+       x="16" />
+  </g>
+  <g
+     id="g106"
+     transform="translate(-6,-302)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path104"
+       stroke-miterlimit="10"
+       d="m 16,312 h 179 v 18 H 16 Z" />
+  </g>
+  <g
+     id="g110"
+     transform="translate(-6,-302)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path108"
+       stroke-miterlimit="10"
+       d="M 16,744 V 312 h 179 v 432" />
+  </g>
+  <g
+     id="g118"
+     transform="translate(-6,-302)">
+    <g
+       id="g116">
+      <path
+         style="fill:none;stroke:none"
+         inkscape:connector-curvature="0"
+         d=""
+         id="path112" />
+      <text
+         style="font-style:normal;font-weight:normal;font-size:10px;font-family:Arial;text-decoration:none;text-decoration-line:none;fill:#000000;stroke:none"
+         id="text114"
+         y="326"
+         x="64.833496"
+         text-decoration="none"
+         font-weight="normal"
+         font-style="normal"
+         font-size="10px">Admin. Orang Tua</text>
+    </g>
+  </g>
+  <g
+     id="g122"
+     transform="translate(-6,-302)">
+    <rect
+       style="fill:#ffffff;stroke:none"
+       id="rect120"
+       height="18"
+       width="193"
+       y="312"
+       x="207" />
+  </g>
+  <g
+     id="g126"
+     transform="translate(-6,-302)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path124"
+       stroke-miterlimit="10"
+       d="m 207,312 h 193 v 18 H 207 Z" />
+  </g>
+  <g
+     id="g130"
+     transform="translate(-6,-302)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path128"
+       stroke-miterlimit="10"
+       d="M 207,744 V 312 h 193 v 432" />
+  </g>
+  <g
+     id="g138"
+     transform="translate(-6,-302)">
+    <g
+       id="g136">
+      <path
+         style="fill:none;stroke:none"
+         inkscape:connector-curvature="0"
+         d=""
+         id="path132" />
+      <text
+         style="font-style:normal;font-weight:normal;font-size:10px;font-family:Arial;text-decoration:none;text-decoration-line:none;fill:#000000;stroke:none"
+         id="text134"
+         y="326"
+         x="288.21924"
+         text-decoration="none"
+         font-weight="normal"
+         font-style="normal"
+         font-size="10px">Sistem</text>
+    </g>
+  </g>
+  <g
+     id="g142"
+     transform="translate(-6,-302)">
+    <path
+       style="opacity:0.2;fill:#c0c0c0;stroke:none"
+       inkscape:connector-curvature="0"
+       id="path140"
+       d="m 103,360.5 c 0,-5.24671 4.25329,-9.5 9.5,-9.5 5.24671,0 9.5,4.25329 9.5,9.5 0,5.24671 -4.25329,9.5 -9.5,9.5 -5.24671,0 -9.5,-4.25329 -9.5,-9.5 z" />
+  </g>
+  <g
+     id="g146"
+     transform="translate(-6,-302)">
+    <path
+       style="fill:#000000;stroke:none"
+       inkscape:connector-curvature="0"
+       id="path144"
+       d="m 96,353.5 c 0,-5.24671 4.25329,-9.5 9.5,-9.5 5.24671,0 9.5,4.25329 9.5,9.5 0,5.24671 -4.25329,9.5 -9.5,9.5 -5.24671,0 -9.5,-4.25329 -9.5,-9.5 z" />
+  </g>
+  <g
+     id="g150"
+     transform="translate(-6,-302)">
+    <path
+       style="opacity:0.2;fill:#c0c0c0;stroke:none"
+       inkscape:connector-curvature="0"
+       id="path148"
+       d="m 80,399 h 64.0293 q 10,0 10,10 v 19 q 0,10 -10,10 H 80 q -10,0 -10,-10 v -19 q 0,-10 10,-10 z" />
+  </g>
+  <g
+     id="g154"
+     transform="translate(-6,-302)">
+    <path
+       style="fill:#ffffff;stroke:none"
+       inkscape:connector-curvature="0"
+       id="path152"
+       d="m 73,392 h 64.0293 q 10,0 10,10 v 19 q 0,10 -10,10 H 73 q -10,0 -10,-10 v -19 q 0,-10 10,-10 z" />
+  </g>
+  <g
+     id="g158"
+     transform="translate(-6,-302)">
+    <path
+       style="fill:none;stroke:#000000;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path156"
+       stroke-miterlimit="10"
+       d="m 73,392 h 64.0293 q 10,0 10,10 v 19 q 0,10 -10,10 H 73 q -10,0 -10,-10 v -19 q 0,-10 10,-10 z" />
+  </g>
+  <g
+     id="g166"
+     transform="translate(-6,-302)">
+    <g
+       id="g164">
+      <path
+         style="fill:none;stroke:none"
+         inkscape:connector-curvature="0"
+         d=""
+         id="path160" />
+      <text
+         style="font-style:normal;font-weight:bold;font-size:10px;font-family:Arial;text-decoration:none;text-decoration-line:none;fill:#000000;stroke:none"
+         id="text162"
+         y="408.5"
+         x="68.88916"
+         text-decoration="none"
+         font-weight="bold"
+         font-style="normal"
+         font-size="10px">Halaman Utama</text>
+    </g>
+  </g>
+  <g
+     id="g170"
+     transform="translate(-6,-302)">
+    <path
+       style="opacity:0.2;fill:#c0c0c0;stroke:none"
+       inkscape:connector-curvature="0"
+       id="path168"
+       d="m 72,471 h 80.09863 q 10,0 10,10 v 19 q 0,10 -10,10 H 72 q -10,0 -10,-10 v -19 q 0,-10 10,-10 z" />
+  </g>
+  <g
+     id="g174"
+     transform="translate(-6,-302)">
+    <path
+       style="fill:#ffffff;stroke:none"
+       inkscape:connector-curvature="0"
+       id="path172"
+       d="m 65,464 h 80.09863 q 10,0 10,10 v 19 q 0,10 -10,10 H 65 q -10,0 -10,-10 v -19 q 0,-10 10,-10 z" />
+  </g>
+  <g
+     id="g178"
+     transform="translate(-6,-302)">
+    <path
+       style="fill:none;stroke:#000000;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path176"
+       stroke-miterlimit="10"
+       d="m 65,464 h 80.09863 q 10,0 10,10 v 19 q 0,10 -10,10 H 65 q -10,0 -10,-10 v -19 q 0,-10 10,-10 z" />
+  </g>
+  <g
+     id="g186"
+     transform="translate(-6,-302)">
+    <g
+       id="g184">
+      <path
+         style="fill:none;stroke:none"
+         inkscape:connector-curvature="0"
+         d=""
+         id="path180" />
+      <text
+         style="font-style:normal;font-weight:bold;font-size:10px;font-family:Arial;text-decoration:none;text-decoration-line:none;fill:#000000;stroke:none"
+         id="text182"
+         y="480.5"
+         x="62.524902"
+         text-decoration="none"
+         font-weight="bold"
+         font-style="normal"
+         font-size="10px">Pilih Menu Log Out</text>
+    </g>
+  </g>
+  <g
+     id="g190"
+     transform="translate(-6,-302)">
+    <path
+       style="opacity:0.2;fill:#c0c0c0;stroke:none"
+       inkscape:connector-curvature="0"
+       id="path188"
+       d="m 60,631 h 105.11816 q 10,0 10,10 v 19 q 0,10 -10,10 H 60 q -10,0 -10,-10 v -19 q 0,-10 10,-10 z" />
+  </g>
+  <g
+     id="g194"
+     transform="translate(-6,-302)">
+    <path
+       style="fill:#ffffff;stroke:none"
+       inkscape:connector-curvature="0"
+       id="path192"
+       d="m 53,624 h 105.11816 q 10,0 10,10 v 19 q 0,10 -10,10 H 53 q -10,0 -10,-10 v -19 q 0,-10 10,-10 z" />
+  </g>
+  <g
+     id="g198"
+     transform="translate(-6,-302)">
+    <path
+       style="fill:none;stroke:#000000;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path196"
+       stroke-miterlimit="10"
+       d="m 53,624 h 105.11816 q 10,0 10,10 v 19 q 0,10 -10,10 H 53 q -10,0 -10,-10 v -19 q 0,-10 10,-10 z" />
+  </g>
+  <g
+     id="g206"
+     transform="translate(-6,-302)">
+    <g
+       id="g204">
+      <path
+         style="fill:none;stroke:none"
+         inkscape:connector-curvature="0"
+         d=""
+         id="path200" />
+      <text
+         style="font-style:normal;font-weight:bold;font-size:10px;font-family:Arial;text-decoration:none;text-decoration-line:none;fill:#000000;stroke:none"
+         id="text202"
+         y="640.5"
+         x="59.707031"
+         text-decoration="none"
+         font-weight="bold"
+         font-style="normal"
+         font-size="10px">Melihat Form Log In</text>
+    </g>
+  </g>
+  <g
+     id="g210"
+     transform="translate(-6,-302)">
+    <path
+       style="opacity:0.2;fill:#c0c0c0;stroke:none"
+       inkscape:connector-curvature="0"
+       id="path208"
+       d="m 100,723.5 c 0,-6.90356 5.59644,-12.5 12.5,-12.5 6.90356,0 12.5,5.59644 12.5,12.5 0,6.90356 -5.59644,12.5 -12.5,12.5 -6.90356,0 -12.5,-5.59644 -12.5,-12.5 z" />
+  </g>
+  <g
+     id="g214"
+     transform="translate(-6,-302)">
+    <path
+       style="fill:none;stroke:#000000;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path212"
+       stroke-miterlimit="10"
+       d="m 93,716.5 c 0,-6.90356 5.59644,-12.5 12.5,-12.5 6.90356,0 12.5,5.59644 12.5,12.5 0,6.90356 -5.59644,12.5 -12.5,12.5 C 98.59644,729 93,723.40356 93,716.5 Z" />
+  </g>
+  <g
+     id="g218"
+     transform="translate(-6,-302)">
+    <path
+       style="fill:#000000;stroke:none"
+       inkscape:connector-curvature="0"
+       id="path216"
+       d="m 98,716.5 c 0,-4.14214 3.35786,-7.5 7.5,-7.5 4.14214,0 7.5,3.35786 7.5,7.5 0,4.14214 -3.35786,7.5 -7.5,7.5 -4.14214,0 -7.5,-3.35786 -7.5,-7.5 z" />
+  </g>
+  <g
+     id="g222"
+     transform="translate(-6,-302)">
+    <path
+       style="fill:none;stroke:#000000;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path220"
+       stroke-miterlimit="10"
+       d="m 105,363 v 29" />
+  </g>
+  <g
+     id="g226"
+     transform="translate(-6,-302)">
+    <path
+       style="fill:none;stroke:#000000;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path224"
+       stroke-miterlimit="10"
+       d="M 100.79048,381.83733 105,392 l 4.20952,-10.16267" />
+  </g>
+  <g
+     id="g230"
+     transform="translate(-6,-302)">
+    <path
+       style="fill:none;stroke:#000000;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path228"
+       stroke-miterlimit="10"
+       d="m 105,431 v 33" />
+  </g>
+  <g
+     id="g234"
+     transform="translate(-6,-302)">
+    <path
+       style="fill:none;stroke:#000000;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path232"
+       stroke-miterlimit="10"
+       d="M 100.79048,453.83733 105,464 l 4.20952,-10.16267" />
+  </g>
+  <g
+     id="g238"
+     transform="translate(-6,-302)">
+    <path
+       style="fill:none;stroke:#000000;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path236"
+       stroke-miterlimit="10"
+       d="m 105,663 v 41" />
+  </g>
+  <g
+     id="g242"
+     transform="translate(-6,-302)">
+    <path
+       style="fill:none;stroke:#000000;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path240"
+       stroke-miterlimit="10"
+       d="M 100.79048,693.83733 105,704 l 4.20952,-10.16267" />
+  </g>
+  <g
+     id="g246"
+     transform="translate(-6,-302)">
+    <path
+       style="opacity:0.2;fill:#c0c0c0;stroke:none"
+       inkscape:connector-curvature="0"
+       id="path244"
+       d="m 249,471 h 129.58105 q 10,0 10,10 v 19 q 0,10 -10,10 H 249 q -10,0 -10,-10 v -19 q 0,-10 10,-10 z" />
+  </g>
+  <g
+     id="g250"
+     transform="translate(-6,-302)">
+    <path
+       style="fill:#ffffff;stroke:none"
+       inkscape:connector-curvature="0"
+       id="path248"
+       d="m 242,464 h 129.58105 q 10,0 10,10 v 19 q 0,10 -10,10 H 242 q -10,0 -10,-10 v -19 q 0,-10 10,-10 z" />
+  </g>
+  <g
+     id="g254"
+     transform="translate(-6,-302)">
+    <path
+       style="fill:none;stroke:#000000;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path252"
+       stroke-miterlimit="10"
+       d="m 242,464 h 129.58105 q 10,0 10,10 v 19 q 0,10 -10,10 H 242 q -10,0 -10,-10 v -19 q 0,-10 10,-10 z" />
+  </g>
+  <g
+     id="g262"
+     transform="translate(-6,-302)">
+    <g
+       id="g260">
+      <path
+         style="fill:none;stroke:none"
+         inkscape:connector-curvature="0"
+         d=""
+         id="path256" />
+      <text
+         style="font-style:normal;font-weight:bold;font-size:10px;font-family:Arial;text-decoration:none;text-decoration-line:none;fill:#000000;stroke:none"
+         id="text258"
+         y="480.5"
+         x="240.36475"
+         text-decoration="none"
+         font-weight="bold"
+         font-style="normal"
+         font-size="10px">Menampilkan Halaman Log In</text>
+    </g>
+  </g>
+  <g
+     id="g266"
+     transform="translate(-6,-302)">
+    <path
+       style="fill:none;stroke:#000000;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path264"
+       stroke-miterlimit="10"
+       d="m 155,483 h 77" />
+  </g>
+  <g
+     id="g270"
+     transform="translate(-6,-302)">
+    <path
+       style="fill:none;stroke:#000000;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path268"
+       stroke-miterlimit="10"
+       d="M 221.83733,487.20952 232,483 221.83733,478.79048" />
+  </g>
+  <g
+     id="g274"
+     transform="translate(-6,-302)">
+    <path
+       style="fill:none;stroke:#000000;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path272"
+       stroke-miterlimit="10"
+       d="m 306,503 v 137 h -2 v 2 H 168" />
+  </g>
+  <g
+     id="g278"
+     transform="translate(-6,-302)">
+    <path
+       style="fill:none;stroke:#000000;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path276"
+       stroke-miterlimit="10"
+       d="M 178.16267,637.79048 168,642 l 10.16267,4.20952" />
+  </g>
+</svg>
